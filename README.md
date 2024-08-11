@@ -19,7 +19,7 @@
 I am a passionate developer with a strong interest in Unix, Linux, and open-source technologies. I love exploring new tools, automating workflows, and contributing to the tech community.
 
 - 🌱 Currently learning **Cloud Computing** and **AI/ML**
-- 🧑‍💻 Focused on **Automation** and **Backend Development**
+- 🧑‍💻 Focused on **Automation**, **Backend Development**, and **Windows Task Automation**
 - 🎯 Open to collaborate on exciting projects
 
 <!-- Tech Stack Section -->
@@ -31,6 +31,8 @@ I am a passionate developer with a strong interest in Unix, Linux, and open-sour
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
@@ -58,9 +60,10 @@ I am a passionate developer with a strong interest in Unix, Linux, and open-sour
 <!-- Projects Section -->
 ## 🔨 Projects
 
-- **[Automation Scripts](https://github.com/ahmadzakiyox/automation-scripts):** A collection of tools to automate daily tasks using Python and Bash.
+- **[Automation Scripts](https://github.com/ahmadzakiyox/automation-scripts):** A collection of tools to automate daily tasks using Python, Bash, and PowerShell.
 - **[Open Source Contributions](https://github.com/ahmadzakiyox):** Actively contributing to various open-source projects.
 - **[Web Development](https://github.com/ahmadzakiyox):** Developing modern web applications with Node.js and JavaScript.
+- **[Windows Task Automation](https://github.com/ahmadzakiyox):** Automating repetitive tasks on Windows using PowerShell and Task Scheduler.
 
 <!-- Contact Section -->
 ## 📬 Get in Touch
@@ -71,6 +74,9 @@ I am a passionate developer with a strong interest in Unix, Linux, and open-sour
   </a>
   <a href="https://www.linkedin.com/in/yourlinkedinprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/ahmadzaki_yo">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://github.com/ahmadzakiyox">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
